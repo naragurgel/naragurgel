@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
 - 😊 I'm Nara Gurgel
-- 🌱 I’m currently studying to became a Full Stack Software Developer at Code Institute
+- 🌱 I'm a Full Stack Software Developer Graduated at Code Institute!
 - 👯 I'm open to collaborating on Projects
 - 📍 Living in Ireland
 - 📫 How to reach me: gurgel.nara@gmail.com
